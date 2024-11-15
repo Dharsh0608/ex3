@@ -28,6 +28,7 @@ Execute the program using runserver command.
 ```
 <html>
     <body>
+        <img src="logo.png" width="700" height="200">
         <table border="5" cellspacing="20" cellpadding="3">
             <caption>SLOT TIME TABLE-DHARSHANA A S (24009985)</caption>
             <tr bgcolor="Teal">
@@ -141,7 +142,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<Screenshot 2024-11-15 000244.png>)
+![alt text](<Screenshot 2024-11-16 000939.png>)
 
 
 ## RESULT
